@@ -2,7 +2,8 @@
 Station names and CRS codes for all public UK railway stations as of 28/12/2018
 
 `````json
-[
+{
+  "stations": [
   {
     "Station Name": "Abbey Wood",
     "CRS Code": "ABW"
@@ -16,3 +17,4 @@ Station names and CRS codes for all public UK railway stations as of 28/12/2018
     "CRS Code": "ACY"
   }
  ]
+}
